@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LightIntensityApp-Demo.iml" filepath="$PROJECT_DIR$/LightIntensityApp-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/npe_practice/npe_practice.iml" filepath="$PROJECT_DIR$/npe_practice/npe_practice.iml" />
+    </modules>
+  </component>
+</project>
